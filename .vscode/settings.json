@@ -1,0 +1,14 @@
+{
+  "scss.validate": false,
+  "css.validate": false,
+  "stylelint.enable": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "trailing",
+  "editor.rulers": [
+    100
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
